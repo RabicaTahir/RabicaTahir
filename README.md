@@ -9,11 +9,12 @@
 
 
 
-- 🌱 I’m currently learning **React.js, Angular-js, Vue.js**
+- 🌱 I’m currently learning ** Vue.js and more about backend**
 
 - 💬 Ask me about **Front end development(html,css,javascript)**
 
-- 📫 How to reach me **artbyr026@gmail.com**
+- 📫 How to reach me **rabicabutt1144@gmail.com**
+- 👨‍💻 Visit my YT: https://www.youtube.com/@codewithart
 
 - ⚡ Fun fact **As a CS graduate, I'm eager to make Versatile websites with stunning and attractive frontend designs because i love designing.**
 
